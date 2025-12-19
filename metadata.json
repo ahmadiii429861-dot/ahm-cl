@@ -1,0 +1,8 @@
+{
+  "name": "f*ck",
+  "description": "An elite AI-powered mathematical workspace. Features real-time voice assistance, scientific calculation, visual graphing, and step-by-step intelligence reports.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
